@@ -4,3 +4,4 @@ pydantic
 python-multipart
 PyPDF2
 openai
+groq
